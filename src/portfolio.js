@@ -19,7 +19,7 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Mohammed Jasim Ahmed",
+  title: "Mohammed Jasim",
   logo_name: "MOhammedJasim",
   nickname: "MJA",
   subTitle:
